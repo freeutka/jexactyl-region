@@ -5,12 +5,7 @@ if (( $EUID != 0 )); then
     exit
 fi
 
-echo "Copyright (c) 2025 exeyarikus"
 echo "This program is free software: you can redistribute it and/or modify."
-echo ""
-echo "Discord: https://dsc.gg/mrlg"
-echo "Website: https://exeyarikus.info/"
-echo ""
 echo "[1] Install module"
 echo "[2] Delete module"
 echo "[3] Exit"
