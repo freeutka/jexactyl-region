@@ -43,4 +43,3 @@ Run this bash script **only** from *root permissions*.
 If you want connect with me, you can find me:
 - on [Discord server](https://dsc.gg/mrlg),
 - on my official [website](https://exeyarikus.info)
-- test
