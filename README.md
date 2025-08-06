@@ -1,7 +1,6 @@
 # Home page of «jexactyl-region»
 
-![Full Screen showcase](https://github.com/freeutka/jexactyl-region/blob/ea810ec1420f95a27790dc907043a9ebe643ac1f/pictures/full_screen.png?raw=true)
-![Logo Image](https://github.com/freeutka/jexactyl-region/blob/ea810ec1420f95a27790dc907043a9ebe643ac1f/pictures/regions_show.png?raw=true)
+![Full Screen showcase](https://github.com/freeutka/jexactyl-region/blob/main/pictures/full_screen.png?raw=true)
 jexactyl-region is a *free to downloading module*. His target its show you where your server is located right now. 
 <br/> Working with API of https://ipapi.is.
 
