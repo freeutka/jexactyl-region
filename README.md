@@ -36,10 +36,3 @@ git clone https://github.com/freeutka/jexactyl-region.git; cd jexactyl-region; b
 ```
 
 Run this bash script **only** from *root permissions*.
-
-## Connect with me
-
-If you want connect with me, you can find me:
-- on [Discord server](https://dsc.gg/mrlg),
-- on my official [website](https://exeyarikus.info)
--test
