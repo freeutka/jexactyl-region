@@ -1,7 +1,7 @@
 # jexactyl-region (Fork of https://github.com/Yarik1333Roky/pterodactyl-region)
 
 ![Full Screen showcase](https://github.com/freeutka/jexactyl-region/blob/main/pictures/full_screen.png?raw=true)
-jexactyl-region is a *free to downloading module*. His target its show you where your server is located right now. 
+jexactyl-region is a *free to download module*. It's target its show you where your server is located right now. 
 <br/> Working with API of https://ipapi.is.
 
 ## Available countries
@@ -17,11 +17,11 @@ Here are only the most popular countries on the Internet, namely:
 | **Africa**        | Egypt, Kenya, Morocco, Nigeria, South Africa                                                                                                                                                               |
 | **Oceania**       | Australia, New Zealand                                                                                                                                                                                     |
 
-If your country dont in this list, then open Issue with this situation and I create new version of module for you.
+If your country isn't in this list, then open a new Issue with this information and I'll create a new version of the module for you.
 
 ## Installation
 
-Use `main.sh` for installing module in this repository.
+Use `main.sh` for installing the module in this repository.
 
 ```bash
 git clone https://github.com/freeutka/jexactyl-region.git
@@ -35,4 +35,4 @@ or
 git clone https://github.com/freeutka/jexactyl-region.git; cd jexactyl-region; bash ./main.sh
 ```
 
-Run this bash script **only** from *root permissions*.
+**Only** run this bash script with *root permissions*.
